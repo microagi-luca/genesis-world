@@ -1,0 +1,14 @@
+--- git commit ---
+8de7e456d10436f9fea908fafad59a01c58aea9c
+
+
+--- git status ---
+HEAD detached at 8de7e456
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	examples/locomotion/go2_record.py
+
+nothing added to commit but untracked files present (use "git add" to track) 
+
+
+--- git diff ---
